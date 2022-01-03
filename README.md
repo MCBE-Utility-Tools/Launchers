@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href=""><img src="https://github.com/MCBE-Utility-Launchers-Utility-Tools/blob/main/Launchers.png" width="600" alt="Launchers" /></a>
+      <a href=""><img src="https://github.com/MCBE-Utility-Launchers/blob/main/Launchers.png" width="600" alt="Launchers" /></a>
     </p>
   <br />
   <p>
